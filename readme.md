@@ -2,7 +2,7 @@
 
 ## 1. Clone the project
 
-`git clone`
+`git clone git@github.com:BStojanoska/steets_assignment.git`
 
 ## 2. Create database steets, and import the .sql file from the folder exported_database
 
